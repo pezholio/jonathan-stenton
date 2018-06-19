@@ -5,4 +5,4 @@
 layout: home
 title: Home
 ---
-<img src="/assets/images/royal-mail-home.png" alt="" alt="Royal Mail - The Heist" title="Royal Mail - The Heist" width="790" height="500" />
+<img src="{{ site.baseurl }}/assets/images/royal-mail-home.png" alt="" alt="Royal Mail - The Heist" title="Royal Mail - The Heist" width="790" height="500" />
