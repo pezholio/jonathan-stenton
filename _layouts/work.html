@@ -3,7 +3,6 @@
     {% include nav.html %}
     <ul id="nav2">
       {% assign items = site.pages | where_exp: "item" , "item.path contains page.category" %}
-      {{ assign current_page = page.url }}
       {% for item in items %}
         {% if item.name == 'index.md' %}
           {% continue %}
