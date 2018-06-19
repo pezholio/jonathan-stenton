@@ -8,7 +8,7 @@
         {% if item.name == 'index.md' %}
           {% continue %}
         {% else %}
-          <li><a href="{{ item.url }}" class="{% if item.url == page.url %}current{% endif %}">{{ item.title }}</a></li>
+          <li><a href="{{ baseurl }}/{{ item.url }}" class="{% if item.url == page.url %}current{% endif %}">{{ item.title }}</a></li>
         {% endif %}
       {% endfor %}
     </ul>
