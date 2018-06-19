@@ -1,0 +1,61 @@
+/* PARAGRAPHS */
+p {margin: 0 0 10px 0; line-height: 150%; font-size: 13px}
+#content p {width: 660px;}
+blockquote {margin: 10px; font-size: 1.4em; color: #777; font-style: italic;}
+hr {border: 0; background-color: #9E9E9E; height: 1px; width: 100%; text-align: left; margin: 0 0 10px 0}
+#side_section p {margin: 0;}
+.indent {margin-left: 5px;}
+
+/* HEADERS */
+h1 {font-size: 16px; font-weight: bold; color: #717171; margin: 0 0 10px 0; padding: 0;}
+h2 {font-size: 16px; font-weight: bold; color: #717171; margin: 0 0 10px 0; padding: 0;}
+h3 {font-size: 13px; font-weight: bold; color: #717171; margin: 0 0 10px 0; padding: 0;}
+h4 {font-size: 13px; font-weight: bold; color: #717171; margin: 0 0 10px 0; padding: 0;}
+h5 {font-size: 13px; font-weight: bold; color: #fff; margin: 0 0 7px 0; padding: 0; float: right}
+
+/* LINKS */
+a {text-decoration: none; font-weight: bold; color: #666; text-decoration: underline;}
+a:hover {color: #000; text-decoration: underline;}
+
+/* LIST STYLES */
+#content ul, #content ol, #content li ul {
+	font-size: 140%;
+	color: #555;
+ 	line-height: 1.6em;
+	margin: 10px;
+}
+#content li {margin: 5px 15px;}
+
+/* ADRESS STYLES */	
+pre {
+	font-family:"Courier New",Courier;
+	display:block;
+	font-size:1.2em;
+	margin:2em 5em;
+	padding:0.5em;
+	border:1px #ccc solid;
+	background:#eee;;
+}
+label {display: block; margin: 10px 0 -10px 0; color: #777;}
+q {display:block; font-size:0.8em; margin:1em 1em; padding:0.5em; border:1px #ccc solid;}
+
+/* TABLE STYLING */
+table {margin: 10px; font-size: 1.2em; color: #666; border-collapse:collapse;}
+td {border:1px solid #999; padding:5px;}
+
+/* WYSIWYG EDITOR ALIGNMENT CLASSES */
+.left {text-align:left;}
+.center {text-align:center;}
+.right {text-align:right;}
+img.right {float:right; margin-left:8px;}
+img.left {float:left; margin-right:4px;}
+img.leftAlone {float: left; margin-right: 100%;}
+img.center {float:none; margin-left:auto; margin-right:auto; display:block;}
+
+/* FORMS */
+label {font-size: 1em;}
+.input.text, textarea {font-size: 1em;}
+
+/* FOOTER */
+.footer_p {margin: 0 0 10px 0; color: #fff; font-size: 12px;}
+address {font-style: normal; margin: 0 0 30px 0; font-size: 13px;}
