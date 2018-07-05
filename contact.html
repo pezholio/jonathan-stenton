@@ -1,0 +1,40 @@
+---
+layout: default
+title: Contact
+permalink: /contact/
+---
+
+<form id="Form_Form" netlify>
+
+	<fieldset>
+			<div class="field text requiredField">
+        <label class="left" for="name">Name:</label>
+        <div class="middleColumn">
+          <input type="text" class="text requiredField" id="name" name="name" value="" />
+        </div>
+      </div>
+			<div class="field text">
+        <label class="left" for="phone">Phone:</label>
+        <div class="middleColumn">
+          <input type="text" class="text" id="phone" name="EditableTextField2" value="" />
+        </div>
+      </div>
+			<div class="field text">
+        <label class="left" for="email">Email:</label>
+        <div class="middleColumn">
+          <input type="text" class="text" id="email" name="email" value="" />
+        </div>
+      </div>
+			<div class="field textarea requiredField">
+        <label class="left" for="details">Enquiry Details:</label>
+        <div class="middleColumn">
+          <textarea id="details" class="requiredField" name="details" rows="4" cols="20"></textarea>
+        </div>
+      </div>
+		<div class="clear"><!-- --></div>
+	</fieldset>
+
+	<div class="Actions">
+		<input class="action" id="submit" type="submit" name="submit" value="Submit" title="Submit" />
+	</div>
+</form>
