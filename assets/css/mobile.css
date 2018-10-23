@@ -1,0 +1,21 @@
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  #side_section, #main_section, .header_logo, #navbar, #content, #footer, .portfolio_main, #content p, #home_main_section {
+    width: 100%;
+    float: none;
+  }
+  
+  #side_section, #main_section, #home_main_section {
+    min-height: auto;
+  }
+  
+  #main_section, #home_main_section {
+    float: left;
+    clear: both;
+  }
+  
+  #container {
+    width: 90%;
+    margin: 1em auto;
+  }
+  
+}
