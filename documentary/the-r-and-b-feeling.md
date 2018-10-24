@@ -2,7 +2,7 @@
 title: The R&B Feeling
 director: Marcus Werner Hed and Nathaniel Mellors
 producer: BBC / PG Film
-video: http://player.vimeo.com/video/85285448?title=1&byline=1&portrait=1
+video: https://player.vimeo.com/video/85285448?title=1&byline=1&portrait=1
 image: rb-feeling.png
 layout: work
 category: documentary

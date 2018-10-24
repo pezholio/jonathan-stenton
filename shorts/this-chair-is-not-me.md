@@ -2,7 +2,7 @@
 title: This Chair Is Not Me
 director: Andy Taylor Smith
 producer: EM Media
-video: http://player.vimeo.com/video/24322749?title=1&byline=1&portrait=1
+video: https://player.vimeo.com/video/24322749?title=1&byline=1&portrait=1
 image: the-chair.png
 layout: work
 category: shorts

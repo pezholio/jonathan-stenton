@@ -2,7 +2,7 @@
 title: Drowned City
 director: Faith Millin
 producer: Pundersons Gardens
-video: http://player.vimeo.com/video/77524190?title=1&byline=1&portrait=1
+video: https://player.vimeo.com/video/77524190?title=1&byline=1&portrait=1
 image: drowned-city.jpg
 layout: work
 category: documentary

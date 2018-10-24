@@ -2,7 +2,7 @@
 title: Wintering
 director: Iain Finlay
 producer: Warp Films
-video: http://player.vimeo.com/video/24013911?title=1&byline=1&portrait=1
+video: https://player.vimeo.com/video/24013911?title=1&byline=1&portrait=1
 image: wintering.png
 layout: work
 category: shorts

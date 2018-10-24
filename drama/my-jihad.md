@@ -2,7 +2,7 @@
 title: My Jihad
 director: Al MacKay
 producer: BBC DRAMA
-video: http://player.vimeo.com/video/135992930?title=1&byline=1&portrait=1
+video: https://player.vimeo.com/video/135992930?title=1&byline=1&portrait=1
 image: my-jihad-walking.png
 layout: work
 category: drama

@@ -2,7 +2,7 @@
 title: I Can Smell the Cordite
 director: Andy Taylor- Smith
 producer: em media and BBC Scotland
-video: http://player.vimeo.com/video/52377118?title=1&byline=1&portrait=1
+video: https://player.vimeo.com/video/52377118?title=1&byline=1&portrait=1
 image: smell-the-cordite.jpg
 layout: work
 category: shorts
